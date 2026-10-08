@@ -1,0 +1,12 @@
+{
+  "name": "enpixeles",
+  "owner": { "name": "EnPixeles Media" },
+  "metadata": { "description": "Mods de Claude Code hechos por EnPixeles, en espanol." },
+  "plugins": [
+    {
+      "name": "guardia-llaves",
+      "source": "./guardia-llaves",
+      "description": "Tapa las llaves y contrasenas antes de que Claude las vea, y le prohibe imprimir archivos de secretos."
+    }
+  ]
+}

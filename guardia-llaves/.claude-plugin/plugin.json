@@ -1,0 +1,13 @@
+{
+  "name": "guardia-llaves",
+  "version": "1.1.0",
+  "description": "Tapa las llaves y contrasenas antes de que Claude las vea, y le prohibe imprimir archivos de secretos.",
+  "author": {
+    "name": "EnPixeles Media"
+  },
+  "keywords": [
+    "mods",
+    "seguridad",
+    "secretos"
+  ]
+}
